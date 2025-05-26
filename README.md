@@ -58,12 +58,12 @@ GitHub: https://github.com/xar2143
 This software is provided "as is", without any warranty or guarantee of any kind.
 The author assumes no responsibility or liability for:
 
-    direct or indirect damage,
+- direct or indirect damage,
 
-    data loss,
+- data loss,
 
-    misuse or illegal use,
+- misuse or illegal use,
 
-    or any consequences arising from the use of this software.
+- or any consequences arising from the use of this software.
 
 Use at your own risk.

@@ -26,6 +26,10 @@ bash (open CMD)
 - pip install flask
 - pip install requests
 
+Or:
+
+- pip install -r requirements.txt
+
 Note: tkinter is usually bundled with Python. If not, refer to your OS documentation to install it.
 
 ---

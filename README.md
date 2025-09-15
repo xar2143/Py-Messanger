@@ -2,12 +2,12 @@
 
 **Py-Messenger** is a simple HTTP messenger developed in Python using the **Flask** framework. It allows multiple users to communicate through HTTP requests and includes a graphical interface built with `tkinter`.
 
-> ✅ **The program is fully functional.**  
-> 🌐 To use it outside of localhost (e.g., over LAN or the Internet), you must configure your server's IP address in the source code.
+> **The program is fully functional.**  
+> To use it outside of localhost (e.g., over LAN or the Internet), you must configure your server's IP address in the source code.
 
 ---
 
-## ✨ Features
+## Features
 
 - HTTP communication using Flask API
 - GUI built with `tkinter`
@@ -17,7 +17,7 @@
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install the required Python packages:
 
@@ -34,7 +34,7 @@ Note: tkinter is usually bundled with Python. If not, refer to your OS documenta
 
 ---
 
-🚀 How to Run
+How to Run
 
 Start the server with:
 
@@ -48,7 +48,7 @@ Start the server with:
 
 ---
 
-👤 Author
+Author
 
 Developed by xar2143
 © 2025 - All rights reserved.
@@ -57,7 +57,7 @@ GitHub: https://github.com/xar2143
 
 ---
 
-⚠️ Disclaimer
+Disclaimer
 
 This software is provided "as is", without any warranty or guarantee of any kind.
 The author assumes no responsibility or liability for:
